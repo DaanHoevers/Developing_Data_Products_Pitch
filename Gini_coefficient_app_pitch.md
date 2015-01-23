@@ -54,7 +54,7 @@ Gini coefficient app
 
 ![app image](Gini_App.PNG)
 
-The Gini coefficient app can be viewed and used via the [Shiny Server](https://daanhoevers.shinyapps.io/Developing_Data_Products) and the code can be obtained from [Github](https://github.com/DaanHoevers/Developing_Data_Products)</small>
+Find the Gini coefficient app on [Shiny Server](https://daanhoevers.shinyapps.io/Developing_Data_Products) and the code on [Github](https://github.com/DaanHoevers/Developing_Data_Products)</small>
 
 Usability and Discussion
 ========================================================
@@ -63,5 +63,5 @@ Usability and Discussion
 * It has been chosen to aggregate the Gini coefficient available in years to 2 periods of 5 years
 * Not for every country and each year the Gini coefficient is available, [see raw data](#/slide2)
 
-A limitation of Gini Coefficient as measure of inequality. [Source](http://en.wikipedia.org/wiki/Gini_coefficient#Limitations_of_Gini_coefficient)
+And a limitation of Gini Coefficient as measure of inequality. [Source](http://en.wikipedia.org/wiki/Gini_coefficient#Limitations_of_Gini_coefficient)
 * Gini coefficients are simple which can confuse the comparison of different populations; for example, while both Bangladesh (per capita income of $1,693) and the Netherlands (per capita income of $42,183) had an income Gini index of 0.31 in 2010. Review for again table on [slide 3](#/slide3)
